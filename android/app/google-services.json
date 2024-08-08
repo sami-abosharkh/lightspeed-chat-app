@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059739554854",
+    "project_id": "experimental-02",
+    "storage_bucket": "experimental-02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059739554854:android:63fc102a9ff94df4fb02e7",
+        "android_client_info": {
+          "package_name": "com.example.lightspeed_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgo-wjRHfAppCfhRJbfgHsl8-JvH_rZVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
